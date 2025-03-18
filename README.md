@@ -1,1 +1,1 @@
-<em> # Generador de Amigo Secreto </em>
+<em> Generador de Amigo Secreto </em>
